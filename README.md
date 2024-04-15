@@ -20,7 +20,9 @@ Customers can make more informed selections when prices are made clear upfront. 
 * **Convenience:** 
 
 Schedule appointments on the move, 24/7, using a simple interface. Secure in-app payment avoids the inconvenience of cash transactions.
-Vetted Professionals: For peace of mind, you can choose from a selection of certified and licensed electricians who have received positive customer reviews.
+* **Vetted Professionals:** 
+
+For peace of mind, you can choose from a selection of certified and licensed electricians who have received positive customer reviews.
 ## For Electricians:
 * **Steady Job Flow:**
 
@@ -28,9 +30,12 @@ Receive job alerts immediately, resulting in a more steady workload and revenue.
 * **Flexible Scheduling:** 
 
 Choose work that aligns with their schedule and experience.
-* **Reduced Overhead Costs:** 
+* **Reduced Overhead Costs:**
+  
 Reduces marketing costs and removes the need for dispatch centres.
-Increased Efficiency: A more efficient booking and communication system frees up time that can be used to concentrate on real work.
+* **Increased Efficiency:**
+
+A more efficient booking and communication system frees up time that can be used to concentrate on real work.
 * **Improved Reputation:** 
 
 Create an effective online profile with customer reviews and comments.
