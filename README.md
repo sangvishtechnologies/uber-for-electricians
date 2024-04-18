@@ -119,7 +119,8 @@ By embracing the Uber for Electricians framework, you are not only creating an a
 
 Are you considering starting an electrician business? Choose our [Sangvish Uber for Electricians script](https://sangvish.com/uber-for-electricians/)—it's the optimal choice for your new brand's business requirements. Sangvish offers one year of complimentary tech support. For further details on starting your business and to view a live demo, please reach out to me or schedule a meeting with us.
 
-Access our standout website:[ https://sangvish.com/uber-for-electricians/](https://sangvish.com/uber-for-electricians/)
+
+Click here to access a live demo of our Uber for electrician service, connecting you with skilled professionals at your fingertips: https://sangvish.com/uber-for-electricians/
 
 **Book a Free Consultation via,**
 
